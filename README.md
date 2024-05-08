@@ -6,7 +6,7 @@ Este relatório documenta o processo de desenvolvimento de um Data Warehouse (DW
 O objetivo deste projeto foi criar uma solução que permitisse a análise dos casos de COVID-19 no Brasil, focando nas cidades com maior número de casos. A solução deveria proporcionar uma visão detalhada e atualizada da situação da pandemia no país, permitindo aos usuários explorar e compreender os dados de forma eficaz.
 
 ## Fonte de Dados
-A fonte de dados utilizada foi um arquivo CSV contendo informações sobre casos de COVID-19 no Brasil, incluindo dados por cidade, estado, número de casos confirmados, óbitos, entre outros. Este arquivo foi obtido de [fonte] e contém dados atualizados até 2022.
+A fonte de dados utilizada foi um arquivo CSV contendo informações sobre casos de COVID-19 no Brasil, incluindo dados por cidade, estado, número de casos confirmados, número de casos por cada 100k habitantes (importante para uma avalição equitativa), óbitos, entre outros. Este arquivo foi obtido através do site Brasil.io e contém dados atualizados até 2022.
 
 ## Desenvolvimento da Solução
 O desenvolvimento da solução foi dividido em várias etapas:
