@@ -25,6 +25,5 @@ Utilizamos o Power BI para mostrar graficamente os dados gerados da tabela fato,
 **Resultados e Conclusões**
 A solução desenvolvida permitiu uma análise detalhada dos dados de COVID-19 no Brasil.
 
-#Conclusão
-O desenvolvimento deste Data Warehouse proporcionou uma ferramenta poderosa para análise e monitoramento dos casos de COVID-19 no Brasil. A solução não apenas fornece informações atualizadas sobre a situação da pandemia, mas também permite a identificação de padrões e tendências que podem auxiliar na tomada de decisões e no planejamento de medidas de saúde pública.
-
+## Conclusão da dupla
+Esse foi um projeto no qual tivemos o contato com alguns conceitos da análise de dados pela primeira vez, como data warehouse, data lake; ferramentas como power bi, etc. Nossa maior dificuldade foi pensar em um cenário, até por isso, acredito que podemos melhorar, pois nosso cenário não é nada especial, apenas dados que já existem, e, inclusive poderíamos usar dados fake para esse projeto. Portanto, concluimos que atingimos o objetivo que era o aprendizado, e o conhecimento dessa nova área. Podendo, assim, desenvolver projetos melhores no futuro.
